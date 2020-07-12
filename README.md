@@ -2,8 +2,6 @@
 
 **CleverYh/CleverYh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on my GitHub profile.
 
-Here are some ideas to get me started:
-
 - 🌱 I’m currently learning Mathematical Analysis, OpenCV, DeepLearning, STM32, Digital Circuit ...
 - ο(=•ω＜=)ρ⌒☆ 
 

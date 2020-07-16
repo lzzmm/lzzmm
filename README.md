@@ -1,4 +1,4 @@
-### Hi there ο(=•ω＜=)ρ⌒☆ 
+### Hi there ο(=•ω＜=)ρ⌒☆  Nice to meet you! (●'◡'●)
 
 **CleverYh/CleverYh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on my GitHub profile.
 

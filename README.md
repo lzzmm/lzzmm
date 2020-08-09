@@ -1,8 +1,8 @@
-### Hi there ο(=•ω＜=)ρ⌒☆  Nice to meet you! (●'◡'●)
+### Hi there, Nice to meet you! ο(=•ω＜=)ρ⌒☆ 
 
 **CleverYh/CleverYh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on my GitHub profile.
 
-- 🌱 I’m currently learning Mathematical Analysis, OpenCV, DeepLearning, STM32, Digital Circuit, web ...
+- 🌱 I’m currently learning OpenCV, DeepLearning, STM32, Digital/Analog Circuit, web ...
 
 <!--
 - 🔭 I’m currently working on ...

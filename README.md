@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning OpenCV, DeepLearning, STM32, Digital/Analog Circuit, web ...
 
-This line was written in the github codespaces. It's so cool!
+This line was written in the github codespaces. That's so cool!
 
 <!--
 - 🔭 I’m currently working on ...

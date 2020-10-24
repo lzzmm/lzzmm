@@ -25,6 +25,7 @@ This line was written in the github codespaces. That's so cool!
 <code align="right"><img height="20" src="https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python"></code>
 <code align="right"><img height="20" src="https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff"></code>
 <code align="right"><img height="20" src="https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code"></code>
+C/C++
 
 <!--<code><img height="20" src="https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask"></code>-->
 <!--<code><img height="20" src="https://img.shields.io/badge/-Java-blue?style=flat-square&logo=java"></code>-->

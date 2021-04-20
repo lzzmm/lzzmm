@@ -1,10 +1,10 @@
 ## Hi there, Nice to meet you!
 
 **CleverYh/CleverYh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on my GitHub profile.
-
+<!--
 - 🌱 I’m currently ~~learning OpenCV, DeepLearning, STM32, Digital/Analog Circuit, web ...~~ 三天打鱼两天晒网
 
-<!--
+
 - 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...

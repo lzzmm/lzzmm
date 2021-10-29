@@ -1,6 +1,6 @@
 ## Hi there, Nice to meet you!
 
-**CleverYh/CleverYh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on my GitHub profile.
+**lzzmm/lzzmm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on my GitHub profile.
 <!--
 - 🌱 I’m currently ~~learning OpenCV, DeepLearning, STM32, Digital/Analog Circuit, web ...~~ 三天打鱼两天晒网
 
@@ -14,4 +14,4 @@
 - ⚡ Fun fact: ...
 -->
 
-![Victor's github stats](https://github-readme-stats.vercel.app/api?username=CleverYh&show_icons=true&hide_border=true)
+![Victor's github stats](https://github-readme-stats.vercel.app/api?username=lzzmm&show_icons=true&hide_border=true)

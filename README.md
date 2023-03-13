@@ -14,6 +14,6 @@
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lzzmm&layout=compact) ![Victor's github stats](https://github-readme-stats.vercel.app/api?username=lzzmm&show_icons=true&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lzzmm&layout=compact" height="160px"> <img src="https://github-readme-stats.vercel.app/api?username=lzzmm&show_icons=true&hide_border=true" height="160px">
 
 <!-- ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats) -->

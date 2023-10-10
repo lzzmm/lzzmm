@@ -8,7 +8,7 @@
 <!-- - 👯 I’m looking to collaborate on fun C++ Projects -->
 <!-- - 🤔 I’m looking for help with finding a job -->
 <!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: ychen906@connect.hkust-gz.edu.cn
+<!-- - 📫 How to reach me: ychen906@connect.hkust-gz.edu.cn -->
 <!-- - 📫 How to reach me: chenyh369@mail2.sysu.edu.cn -->
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
